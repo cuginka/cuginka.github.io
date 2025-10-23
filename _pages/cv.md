@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
+
 - **B.S. in Applied Psychology** - Ningbo University, 2023-2027 (Expected)
 - **Summer School** - Peking University, Large Models: From Fundamental to Frontier, 2025
 
@@ -24,7 +24,7 @@ redirect_from:
 - Applied Representational Similarity Analysis (RSA) as the core methodology to compare model-derived conceptual structures with human behavioral data, aiming to quantitatively map the cognitive shifts between traditional and modern perspectives.
 
 ### Core Project Member | Multimodal AI for Visual-Linguistic Understanding: "AI Pictionary"
-*Summer 2024, Peking University*
+*Summer 2025, Peking University*
 
 - Selected for the competitive summer school program, "Large Models: From Fundamental to Frontier," at Peking University.
 - Designed and implemented a multi-agent AI system where an image-to-text model (Doubao) generated descriptive riddles, and multiple text-to-image models (Baidu Qianfan, Tongyi Wanxiang, Zhipu CogView) competed to recreate the image from the description.
@@ -51,11 +51,9 @@ redirect_from:
 - **Mandarin Chinese**: Native proficiency.
 - **English**: Fluent (strong academic reading, writing, and presentation skills).
 
-##Publications
-*Currently working on research projects. Publications will be updated as they become available.*
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Publications
+- **Currently working on research projects. Publications will be updated as they become available.**
+
   
 
 
