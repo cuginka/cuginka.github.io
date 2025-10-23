@@ -41,3 +41,13 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+// 自定义头像样式 - 改为正圆形
+.author__avatar {
+  img {
+    border-radius: 50% !important;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+}
