@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-##Education
+## Education
 ======
 - **B.S. in Applied Psychology** - Ningbo University, 2023-2027 (Expected)
 - **Summer School** - Peking University, Large Models: From Fundamental to Frontier, 2025
