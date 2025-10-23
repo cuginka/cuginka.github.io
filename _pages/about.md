@@ -34,7 +34,7 @@ My interests are unified by the goal of building a computational understanding o
 - Applied Representational Similarity Analysis (RSA) to compare model-derived conceptual structures with human behavioral data, aiming to map the cognitive shifts between traditional and modern perspectives.
 
 ### Project Member | Multimodal AI for Visual-Linguistic Understanding
-*Summer 2024, Peking University*
+*Summer 2025, Peking University*
 
 - Selected for the competitive summer school program, "Large Models: From Fundamental to Frontier," at Peking University.
 - Developed a project where a multimodal AI model was trained to play a "Pictionary-style" guessing game, exploring its capabilities in joint visual and linguistic understanding.
@@ -42,7 +42,7 @@ My interests are unified by the goal of building a computational understanding o
 ## Education
 
 - **B.S. in Applied Psychology** - Ningbo University, 2023-2027 (Expected)
-- **Summer School** - Peking University, Large Models: From Fundamental to Frontier, 2025
+- **Summer School** - Peking University, Large Models: From Fundamental to Frontier, 2025.7
 
 ## Contact
 
